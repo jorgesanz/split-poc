@@ -10,10 +10,6 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.concurrent.TimeoutException;
 
-/**
- * Hello world!
- *
- */
 @SpringBootApplication
 public class App 
 {

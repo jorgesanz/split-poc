@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.split.tutorial</groupId>
-  <artifactId>hello-java</artifactId>
+  <artifactId>feature-flags</artifactId>
   <version>1.0.0</version>
 
-  <name>hello-java</name>
+  <name>feature-flags</name>
 
 
   <parent>
